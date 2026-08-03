@@ -1,0 +1,8 @@
+C:\Users\EtecFP\source\repos\Solução_Menu\Projeto_Menu\bin\Debug\Projeto_Menu.exe.config
+C:\Users\EtecFP\source\repos\Solução_Menu\Projeto_Menu\bin\Debug\Projeto_Menu.exe
+C:\Users\EtecFP\source\repos\Solução_Menu\Projeto_Menu\bin\Debug\Projeto_Menu.pdb
+C:\Users\EtecFP\source\repos\Solução_Menu\Projeto_Menu\obj\Debug\Projeto_Menu.csproj.AssemblyReference.cache
+C:\Users\EtecFP\source\repos\Solução_Menu\Projeto_Menu\obj\Debug\Projeto_Menu.csproj.CoreCompileInputs.cache
+C:\Users\EtecFP\source\repos\Solução_Menu\Projeto_Menu\obj\Debug\Projeto_Menu.exe
+C:\Users\EtecFP\source\repos\Solução_Menu\Projeto_Menu\obj\Debug\Projeto_Menu.pdb
+C:\Users\EtecFP\source\repos\Solução_Menu\Projeto_Menu\obj\Debug\Projeto_Menu.exe.config
