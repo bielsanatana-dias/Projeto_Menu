@@ -6,6 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Xml;
 using static System.Console;
 
 namespace Projeto_Menu
@@ -27,8 +28,6 @@ namespace Projeto_Menu
             nome = ReadLine();
             SetCursorPosition(45, 4);
             WriteLine($"Bem vindo(a) {nome} a nossa aula");
-            
-            WriteLine("        ███████████\r\n     ███           ███\r\n   ██                  ██\r\n  ██    ███       ███    ██\r\n ██     ███       ███     ██\r\n ██                       ██\r\n ██                       ██\r\n ██     ██         ██    ██\r\n  ██      █████████      ██\r\n   ██                 ██\r\n     ███           ███\r\n        ███████████");
             Thread.Sleep(2000);
 
             do
@@ -51,6 +50,8 @@ namespace Projeto_Menu
                 Write(new string('=', 80));
                 SetCursorPosition(0, 13);
                 Write(new string('=', 80));
+                SetCursorPosition(1, 12);
+                Write($"Usuario: {nome}");
                 SetCursorPosition(30, 12);
                 Write("Digite sua opção: ");
                 opcao = int.Parse(ReadLine());
@@ -64,7 +65,7 @@ namespace Projeto_Menu
                         Tabuada();
                         break;
                     case 3:
-                        Compara_Numeros();
+                           Compara_Numeros();
                         break;
                     case 4:
                         Media();
