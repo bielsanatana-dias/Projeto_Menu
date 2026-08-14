@@ -34,25 +34,26 @@ namespace Projeto_Menu
             {
                 Clear();
 
-                SetCursorPosition(0, 0);
+                SetCursorPosition(23, 0);
                 Write(new string('=', 80));
-                SetCursorPosition(30, 1);
+                SetCursorPosition(50, 1);
                 Write("****** Menu Principal ******");
-                SetCursorPosition(0, 2);
+                SetCursorPosition(23, 2);
                 Write(new string('=', 80));
-                SetCursorPosition(30, 5); Write("[1]Menu Vetores");
-                SetCursorPosition(30, 6); Write("[2]Tabuada");
-                SetCursorPosition(30, 7); Write("[3]Compara Números");
-                SetCursorPosition(30, 8); Write("[4]Média");
-                SetCursorPosition(30, 9); Write("[5]Jogo adivinha");
-                SetCursorPosition(30, 10); Write("[6]Sair");
-                SetCursorPosition(0, 11);
+                SetCursorPosition(50, 5); Write("[1]Menu Vetores");
+                SetCursorPosition(50, 5); Write("[1]Menu Vetores");
+                SetCursorPosition(50, 6); Write("[2]Tabuada");
+                SetCursorPosition(50, 7); Write("[3]Compara Números");
+                SetCursorPosition(50, 8); Write("[4]Média");
+                SetCursorPosition(50, 9); Write("[5]Jogo adivinha");
+                SetCursorPosition(50, 10); Write("[6]Sair");
+                SetCursorPosition(23, 11);
                 Write(new string('=', 80));
-                SetCursorPosition(0, 13);
+                SetCursorPosition(23, 13);
                 Write(new string('=', 80));
-                SetCursorPosition(1, 12);
+                SetCursorPosition(23, 12);
                 Write($"Usuario: {nome}");
-                SetCursorPosition(30, 12);
+                SetCursorPosition(50, 12);
                 Write("Digite sua opção: ");
                 opcao = int.Parse(ReadLine());
                 switch (opcao)
