@@ -41,7 +41,6 @@ namespace Projeto_Menu
                 SetCursorPosition(23, 2);
                 Write(new string('=', 80));
                 SetCursorPosition(50, 5); Write("[1]Menu Vetores");
-                SetCursorPosition(50, 5); Write("[1]Menu Vetores");
                 SetCursorPosition(50, 6); Write("[2]Tabuada");
                 SetCursorPosition(50, 7); Write("[3]Compara Números");
                 SetCursorPosition(50, 8); Write("[4]Média");
@@ -57,7 +56,7 @@ namespace Projeto_Menu
                 Write("Digite sua opção: ");
                 opcao = int.Parse(ReadLine());
                 switch (opcao)
-                {
+              
 
                     case 1:
                         Menu_Vetores();
@@ -89,7 +88,19 @@ namespace Projeto_Menu
         }
         static void Tabuada()
         {
-
+            Write("Digite um numero: ");
+            num int = ReadLine();
+            WriteLine($"{num * 1}");
+            WriteLine($"{num * 2}");
+            WriteLine($"{num * 3}");
+            WriteLine($"{num * 4}");
+            WriteLine($"{num * 5}");
+            WriteLine($"{num * 6}");
+            WriteLine($"{num * 7}");
+            WriteLine($"{num * 8}");
+            WriteLine($"{num * 9}");
+            WriteLine($"{num * 10}");
+            
         }
         static void Compara_Numeros()
         {
