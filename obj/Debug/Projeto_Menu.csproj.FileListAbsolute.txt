@@ -13,3 +13,11 @@ C:\Users\User\GitHub\Projeto_Menu\obj\Debug\Projeto_Menu.csproj.AssemblyReferenc
 C:\Users\User\GitHub\Projeto_Menu\obj\Debug\Projeto_Menu.csproj.CoreCompileInputs.cache
 C:\Users\User\GitHub\Projeto_Menu\obj\Debug\Projeto_Menu.exe
 C:\Users\User\GitHub\Projeto_Menu\obj\Debug\Projeto_Menu.pdb
+C:\Users\EtecFP\Documents\GitHub\Projeto_Menu\obj\Debug\Projeto_Menu.csproj.AssemblyReference.cache
+C:\Users\EtecFP\Documents\GitHub\Projeto_Menu\obj\Debug\Projeto_Menu.csproj.CoreCompileInputs.cache
+C:\Users\EtecFP\Documents\GitHub\Projeto_Menu\obj\Debug\Projeto_Menu.exe
+C:\Users\EtecFP\Documents\GitHub\Projeto_Menu\obj\Debug\Projeto_Menu.pdb
+C:\Users\EtecFP\Documents\GitHub\Projeto_Menu\bin\Debug\Projeto_Menu.exe.config
+C:\Users\EtecFP\Documents\GitHub\Projeto_Menu\bin\Debug\Projeto_Menu.exe
+C:\Users\EtecFP\Documents\GitHub\Projeto_Menu\bin\Debug\Projeto_Menu.pdb
+C:\Users\EtecFP\Documents\GitHub\Projeto_Menu\obj\Debug\Projeto_Menu.exe.config
